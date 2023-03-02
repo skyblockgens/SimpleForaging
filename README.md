@@ -8,7 +8,7 @@
     <img alt="mcversion" src="https://img.shields.io/badge/MC%20Version-1.8.9-blue?color=%239f00ff&style=for-the-badge" />
   </a>
   <a href="https://github.com/skyblockgens/SimpleForaging/releases/latest" target="_blank">
-    <img alt="downloads" src="https://img.shields.io/badge/DOWNLOADS-1.2k-a?color=%239f00ff&style=for-the-badge" />
+    <img alt="downloads" src="https://img.shields.io/badge/DOWNLOADS-204-a?color=%239f00ff&style=for-the-badge" />
     </a>
 </p>
 
